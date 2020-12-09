@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03bcfa05-b3f5-4fe6-8433-eb1ab09418d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="473" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1lMASe2sdNNFgYYLBHEglsWe9wf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="GoMoveDeclarationDialog.RECENT_KEY">
+      <recent name="$PROJECT_DIR$/internal/tree" />
+      <recent name="$PROJECT_DIR$/pkg/comparator/contract.go" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sulav\go\src\github.com\Number1Tsar\myGoDS\pkg" />
+      <recent name="C:\Users\Sulav\go\src\github.com\Number1Tsar\myGoDS\internal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.go test myGoDS">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="myGoDs" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="github.com/Number1Tsar/GoDataStructure" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTreeSet_Iterator in github.com/Number1Tsar/myGoDS/pkg/set" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="myGoDs" />
+      <working_directory value="$PROJECT_DIR$/pkg/set" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/Number1Tsar/myGoDS/pkg/set" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestTreeSet_Iterator$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTreeSet_Lower in github.com/Number1Tsar/myGoDS/pkg/set" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="myGoDs" />
+      <working_directory value="$PROJECT_DIR$/pkg/set" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/Number1Tsar/myGoDS/pkg/set" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestTreeSet_Lower$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTreeSet_Upper in github.com/Number1Tsar/myGoDS/pkg/set" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="myGoDs" />
+      <working_directory value="$PROJECT_DIR$/pkg/set" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/Number1Tsar/myGoDS/pkg/set" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestTreeSet_Upper$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="myGoDs" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/Number1Tsar/GoDataStructure" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/Number1Tsar/myGoDS/pkg/set" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="myGoDs" />
+      <working_directory value="$PROJECT_DIR$/pkg/set" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/Number1Tsar/myGoDS/pkg/set" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test myGoDS" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="myGoDs" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/Number1Tsar/GoDataStructure" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test myGoDS" />
+        <item itemvalue="Go Test.TestTreeSet_Iterator in github.com/Number1Tsar/myGoDS/pkg/set" />
+        <item itemvalue="Go Test.TestTreeSet_Upper in github.com/Number1Tsar/myGoDS/pkg/set" />
+        <item itemvalue="Go Test.TestTreeSet_Lower in github.com/Number1Tsar/myGoDS/pkg/set" />
+        <item itemvalue="Go Test.go test github.com/Number1Tsar/myGoDS/pkg/set" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607492140181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607492140181" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607492140181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607492140181" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607492140181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607492140181" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607492140181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607492140181" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1607466873347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607466873347" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1607466873347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607466873347" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1607466873347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607466873347" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1607466873347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607466873347" />
+    <state x="738" y="239" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1607488108222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="239" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607488108222" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607452188789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607452188789" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myGoDs$go_test_myGoDS.out" NAME="go test myGoDS Coverage Results" MODIFIED="1607491989462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/GoDataStructure$go_test_GoDataStructure.out" NAME="go test GoDataStructure Coverage Results" MODIFIED="1607453383792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/GoDataStructure$go_test_tree.out" NAME="go test tree Coverage Results" MODIFIED="1607465530131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
